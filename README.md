@@ -1,4 +1,4 @@
-# bwaaatro
+# bwaatro
 a mess of a balatro mod
 
 features a LOT of shit from a whole bunch of stuff that i like, such as Nichijou, CITY, Vocalsynths (Vocaloid/UTAU/SynthV), and so on.
