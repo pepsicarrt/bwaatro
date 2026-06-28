@@ -1,0 +1,16 @@
+{
+	"id": "bwaatro",
+	"name": "bwaatro",
+	"author": ["moricart"],
+	"description": "a mess of a mod",
+	"prefix": "bwaaa",
+	"main_file": "bwaatro.lua",
+	"priority": 0,
+	"badge_colour": "edb1be",
+	"icon_path": "bwaaa.png",
+	"version": "1.0.0a-BETA",
+	"dependencies": [
+	"Steamodded (>=1.0.0~BETA)"
+	],
+	"dump_loc": true
+}
