@@ -11,6 +11,5 @@
 	"version": "1.0.0a-BETA",
 	"dependencies": [
 	"Steamodded (>=1.0.0~BETA)"
-	],
-	"dump_loc": true
+	]
 }
